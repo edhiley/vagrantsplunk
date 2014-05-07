@@ -4,4 +4,4 @@ Created to test splunk search peer/clustering configurations, installs and start
 
 Enjoy.
 
-Download the splunk file you require -- place in the route, splunk-5.0.4-172409-linux-2.6-amd64.deb
+Download the splunk file you require -- place in the root folder, e.g. splunk-5.0.4-172409-linux-2.6-amd64.deb
